@@ -1,11 +1,20 @@
-- 👋 Hi, I’m @lucifer1999s
-- 👀 I’m interested in create a fantasy world in coding
-- 🌱 I’m currently learning python ,java and android designing
-- 💞️ I’m looking to collaborate on ...
-- 📫 Here is my email ,if you have any question about software designing or collaborate on your work with me
-- linpeter21888@gmail.com
+# Lucien Lin (Ting) — AI Systems Builder
 
-<!---
-lucifer1999s/lucifer1999s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Former AI Solutions Architect; I’ve shipped enterprise-grade AI products end-to-end (retrieval, LLM orchestration, evaluation, deployment).  
+Currently an **MEng ECE** student at **Oregon State University**, focusing on **GPU-accelerated AI hardware and systems**.
+
+## What you’ll find here
+- AI research projects (RAG evaluation, grounding, agent reliability)
+- Production-oriented AI software & infrastructure
+- Open-source tools for datasets, evals, and developer workflows
+
+## Focus
+- GPU × LLM performance (throughput, latency, memory)
+- Retrieval quality & faithfulness measurement
+- Agent/tool reliability & failure handling
+- Data/knowledge pipelines for enterprise use
+
+Featured repositories are pinned below.
+
+**Contact**  
+Email: **lucien1999s.pro@gmail.com**
