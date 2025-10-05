@@ -18,3 +18,5 @@ Featured repositories are pinned below.
 
 **Contact**  
 Email: **lucien1999s.pro@gmail.com**
+Linkedin: **https://www.linkedin.com/in/lucien-lin-78a906225/**
+Medium: **https://medium.com/@lucien1999s.pro**
