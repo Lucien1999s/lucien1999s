@@ -1,4 +1,4 @@
-# Lucien Lin - AI Engineer🫡
+# Lucien Lin
 
 Former **AI Solutions Architect** — shipped enterprise-grade AI products end-to-end (retrieval, LLM orchestration, evaluation, deployment).  
 Currently an **MEng ECE** student at **Oregon State University**, focusing on **GPU-accelerated AI hardware & systems**.
